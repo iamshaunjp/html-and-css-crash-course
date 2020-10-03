@@ -6,14 +6,14 @@ body, ul, li, h1, h2, a{
   font-family: tahoma;
 }
 p{
-  font-size: 18px;
+  font-size: 29px;
 }
 header{
-  background-color: #F63232;
+  background-color: #black;
   padding: 20px 0;
   text-align: center;
   position: fixed;
-  width: 100%;
+  width: 50%;
   top: 0;
   left: 0;
   z-index: 1;
@@ -32,7 +32,7 @@ header h1{
   max-width: 100%;
 }
 .banner .welcome{
-  background:#FEB614;
+  background:#fffff;
   color: white;
   padding: 30px;
   font-size: 60px;
